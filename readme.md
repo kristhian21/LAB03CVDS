@@ -21,3 +21,9 @@
 4. Que la persona no tenga edad suficiente para votar (age < 18)
  
 5. Que la persona sea valida para votar (Que no se cumpla ninguna de las condiciones anteriores)
+
+## Test
+
+**TarifasTest y RegistryTest**
+
+<img src="testImage.png" alt="pruebas">
